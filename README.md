@@ -1,4 +1,3 @@
-Hotel Reservation Application
 
 A console-based Hotel Reservation System built in Java, implementing core OOP principles including interfaces, inheritance, polymorphism, and the Singleton design pattern.The application simulates a real-world hotel booking system with separate flows for customers and administrators.
 
