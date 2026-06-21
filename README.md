@@ -4,7 +4,6 @@ A console-based Hotel Reservation System built in Java, implementing core OOP pr
 Table of Contents
 
 Features,
-Project Structure,
 Architecture Overview,
 Technologies Used.
 
