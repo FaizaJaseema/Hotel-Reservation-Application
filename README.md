@@ -4,7 +4,7 @@ A console-based Hotel Reservation System built in Java, implementing core OOP pr
 
 Table of Contents
 
-Features
+Features:
 Project Structure
 Architecture Overview
 Technologies Used
@@ -24,34 +24,6 @@ Admin Menu
 🏠 View all rooms
 📑 View all reservations across the system
 ➕ Add new rooms (paid or free, single or double)
-
-Project Structure
-
-HotelReservationApplication/
-│
-├── src/
-│   ├── Main.java                   # Entry point
-│   │
-│   ├── model/
-│   │   ├── IRoom.java              # Interface for room abstraction
-│   │   ├── Room.java               # Paid room implementation
-│   │   ├── FreeRoom.java           # Free room (extends Room)
-│   │   ├── RoomType.java           # Enum: SINGLE / DOUBLE
-│   │   ├── Customer.java           # Customer model with email validation
-│   │   ├── Reservation.java        # Reservation model with conflict detection
-│   │   └── Driver.java             # Test data driver
-│   │
-│   ├── service/
-│   │   ├── ReservationService.java # Singleton: manages rooms & reservations
-│   │   └── CustomerService.java    # Singleton: manages customers
-│   │
-│   ├── api/
-│   │   ├── HotelResource.java      # API layer for customer-facing operations
-│   │   └── AdminResource.java      # API layer for admin operations
-│   │
-│   └── ui/
-│       ├── MainMenu.java           # Customer-facing console UI
-│       └── AdminMenu.java          # Admin console UI
 
 Architecture Overview
 
