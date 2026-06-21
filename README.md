@@ -13,18 +13,18 @@ Features:
 
 Customer Menu
 
-Search available rooms by check-in and check-out dates
-Smart room recommendation — suggests rooms 7 days later if none are available
-Create a customer account with email validation
-Book a room with double-booking prevention
-View all personal reservations
+Search available rooms by check-in and check-out dates,
+Smart room recommendation — suggests rooms 7 days later if none are available,
+Create a customer account with email validation,
+Book a room with double-booking prevention,
+View all personal reservations.
 
 Admin Menu
 
-View all registered customers
-View all rooms
-View all reservations across the system
-Add new rooms (paid or free, single or double)
+View all registered customers,
+View all rooms,
+View all reservations across the system,
+Add new rooms (paid or free, single or double).
 
 Architecture Overview
 
