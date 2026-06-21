@@ -25,14 +25,14 @@ View all rooms,
 View all reservations across the system,
 Add new rooms (paid or free, single or double).
 
-Architecture Overview
+Architecture Overview:
 
 UI Layer       →   MainMenu / AdminMenu,
 API Layer      →   HotelResource / AdminResource,
 Service Layer  →   ReservationService / CustomerService,
 Model Layer    →   Customer, Room, FreeRoom, Reservation, IRoom, RoomType.
 
-Technologies Used
+Technologies Used:
 
 Java (Core Java, OOP),
 Java Collections Framework (HashMap, ArrayList),
